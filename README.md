@@ -30,3 +30,6 @@ We will give the analysis of airbnb bookings data for better business growth and
 ### 9.How much amount of money we need for particuler room type for minimum one night.
 
 ### 10. In which neighbourhood AirBnb is available for most of the days in 365 Days.
+
+# Define Your Business Objective?
+### Our main objective is to increase the satisfaction of the customer as well as increase the profit of the business
