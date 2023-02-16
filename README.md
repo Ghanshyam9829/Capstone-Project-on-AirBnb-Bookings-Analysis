@@ -37,5 +37,6 @@ We will give the analysis of airbnb bookings data for better business growth and
 # Data Vizualization
 
 ## Chart 1
-Above chart is a bar plot which represnt the count of different room type listed on AirBnb .I choose this chart because I want to know what types of rooms are most available on AirBnb.
+###Above chart is a bar plot which represnt the count of different room type listed on AirBnb .I choose this chart because I want to know what types of rooms are most available on AirBnb.
+
 ![chart1](https://user-images.githubusercontent.com/125486967/219509871-8706e308-222f-4578-a9ef-7e3e820e4e8f.PNG)
