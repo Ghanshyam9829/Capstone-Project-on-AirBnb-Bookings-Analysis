@@ -11,22 +11,22 @@ We will give the analysis of airbnb bookings data for better business growth and
 # Problem Statement
 ### In the given dataset we have 49000 obsservations with 16 columns and it is a mix of numerical and categorical values. By the analysis of given data set we will analize some given problems and try to find the answer , in the end of the project we will explain how can we use theses answer to get a positve business outcome.
 
-1. What type of rooms are available in more Quantity on airbnb​
+### 1. What type of rooms are available in more Quantity on airbnb​
 
-​2. What type of rooms are available for most days in 365 days​
+### 2. What type of rooms are available for most days in 365 days​
 
-​3. What price range is preferable by customers​
+### 3. What price range is preferable by customers​
 
-​4. Which type of room is most used and preferable by the customers​
+### 4. Which type of room is most used and preferable by the customers​
 
-​5. Which type of room is available in high amount for minimum one night.​
+### 5. Which type of room is available in high amount for minimum one night.​
 
-6. Which neighbourhood is most expensive.​
+### 6. Which neighbourhood is most expensive.​
 
-7. Which neighbourhood have maximum amount of airbnb listings.​
+### 7. Which neighbourhood have maximum amount of airbnb listings.​
 
-8. How much money we need on average for visiting any particular neighbourhood for minimum one night.​
+### 8. How much money we need on average for visiting any particular neighbourhood for minimum one night.​
 
-9. ​How much amount of money we need for particuler room type for minimum one night.
+### 9.How much amount of money we need for particuler room type for minimum one night.
 
-10. In which neighbourhood AirBnb is available for most of the days in 365 Days.
+### 10. In which neighbourhood AirBnb is available for most of the days in 365 Days.
